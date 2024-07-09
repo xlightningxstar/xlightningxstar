@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm xlightningstar</h1>
+<h1 align="center">Hi 👋, I'm xlightningxstar</h1>
 <h3 align="center">A passionate Custom Rom Enthusiast from India</h3
 
 - 💬 Ask me about **rooting,custom roms,linux,ios,jailbreaking,etc ;)**
@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/xlightningstar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xlightningstar" height="40" width="40" /></a>  
-<a href="https://t.me/xLightningStar/" target="blank"><img align="center" src="https://cloud.githubusercontent.com/assets/29163250/26754498/4422864c-487c-11e7-9131-3109433ebf24.png" alt="xlightningstar" height="40" width="40" /></a>
+<a href="https://www.instagram.com/xlightningxstar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xlightningxstar" height="40" width="40" /></a>  
+<a href="https://t.me/xLightningStar/" target="blank"><img align="center" src="https://cloud.githubusercontent.com/assets/29163250/26754498/4422864c-487c-11e7-9131-3109433ebf24.png" alt="xlightningxstar" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,8 +31,8 @@
 - 3GB RAM/32GB ROM
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xlightningstar&show_icons=true&locale=en&layout=compact" alt="xlightningstar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xlightningxstar&show_icons=true&locale=en&layout=compact" alt="xlightningxstar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xlightningstar&show_icons=true&locale=en" alt="xlightningstar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xlightningxstar&show_icons=true&locale=en" alt="xlightningxstar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=curiousnom&" alt="xlightningstar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xlightningxstar&" alt="xlightningxstar" /></p>
