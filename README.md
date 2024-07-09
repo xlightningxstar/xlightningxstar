@@ -16,6 +16,7 @@
 <h3 align="left">Working environment:</h3>
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/software-download/windows10)
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xlightningstar&show_icons=true&locale=en&layout=compact" alt="xlightningstar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xlightningstar&show_icons=true&locale=en" alt="xlightningstar" /></p>
