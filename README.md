@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://www.instagram.com/xlightningstar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xlightningstar" height="40" width="40" /></a>  
 <a href="https://t.me/xLightningStar/" target="blank"><img align="center" src="https://cloud.githubusercontent.com/assets/29163250/26754498/4422864c-487c-11e7-9131-3109433ebf24.png" alt="xlightningstar" height="40" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
