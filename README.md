@@ -2,9 +2,7 @@
 <h3 align="center">A passionate Custom Rom Enthusiast from India</h3
 
 - 💬 Ask me about **rooting,custom roms,linux,ios,jailbreaking,etc ;)**
-
 - 📫 How to reach me **soumodip.dgp@gmail.com**
-
 - ⚡ Fun fact **“Did you know? The term ‘debugging’ in software development was popularized by Admiral Grace Hopper in the 1940s when she removed an actual moth from a computer.”**
 
 <h3 align="left">Connect with me:</h3>
