@@ -19,6 +19,17 @@
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/software-download/windows10)
 [![Ubuntu 22.04 WSL](https://img.shields.io/badge/Ubuntu%2022.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/wsl)
 
+### 💻 Current Work Machine, Daily Driver Smartphone
+#### MY PC Specs:-
+- Intel Core i5-3470T
+- Integrated GPU
+- 8 GB DDR3 Dual channel 1666Mhz ram
+- 500 GB HDD
+
+#### Samsung Galaxy Tab A7 LTE (gta4l)
+- Qualcomm Snapdragon 662
+- 3GB RAM/32GB ROM
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xlightningstar&show_icons=true&locale=en&layout=compact" alt="xlightningstar" /></p>
 
