@@ -19,7 +19,7 @@
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/software-download/windows10)
 [![Ubuntu 22.04 WSL](https://img.shields.io/badge/Ubuntu%2022.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/wsl)
 
-### 💻 Current Work Machine, Daily Driver Smartphone
+### 💻 Current Work Machine, Daily Driver Tablet 
 #### MY PC Specs:-
 - Intel Core i5-3470T
 - Integrated GPU
