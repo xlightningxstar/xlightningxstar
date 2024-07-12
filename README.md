@@ -3,7 +3,8 @@
 --->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hello%20there%20%F0%9F%91%8B&fontSize=90)
 # Welcome to my profile 😎!
-I'm xlightningxstar
+<h1 align="center">Hi 👋, I'm Aryan Biswas</h1>
+<h3 align="center">A passionate Custom Rom Enthusiast from India</h3>
 
 - 💬 Ask me about **rooting,custom roms,linux,ios,jailbreaking,etc ;)**
 - 📫 How to reach me **soumodip.dgp@gmail.com**
