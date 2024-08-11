@@ -7,6 +7,12 @@ I'm xlightningxstar
 
 A passionate Custom Rom Enthusiast from India
 ***
+
+<p align="center"><b>👀Profile Views:</b></p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/xlightningxstar/count.svg?"  />
+</div>
+
 ## Some infos about me:
 - 💬 Ask me about **rooting,custom roms,linux,ios,jailbreaking,etc ;)**
 - 📫 How to reach me **soumodip.dgp@gmail.com**
