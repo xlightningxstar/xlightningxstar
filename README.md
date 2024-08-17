@@ -39,7 +39,7 @@ A passionate Custom Rom Enthusiast from India
 - 3GB RAM/32GB ROM
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=curiousnom&show_icons=true&locale=en&layout=compact" alt="curiousnom" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xlightningxstar&show_icons=true&locale=en&layout=compact" alt="xlightningxstar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xlightningxstar&show_icons=true&locale=en" alt="xlightningxstar" /></p>
 
