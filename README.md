@@ -38,9 +38,18 @@ A passionate Custom Rom Enthusiast from India
 - Qualcomm Snapdragon 662
 - 3GB RAM/32GB ROM
 
+### ⚙️ &nbsp;xlightningxstar's GitHub Analytics
+<p align="center">
+<a href="https://github.com/xlightningxstar">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xlightningxstar&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xlightningxstar&layout=compact&langs_count=8&theme=nightowl"/>
+</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xlightningxstar&show_icons=true&locale=en&layout=compact" alt="xlightningxstar" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xlightningxstar&show_icons=true&locale=en" alt="xlightningxstar" /></p>
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=xlightningxstar&style=flat-square"/>
+ <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dxlightningxstar&longCache=true"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xlightningxstar&" alt="xlightningxstar" /></p>
