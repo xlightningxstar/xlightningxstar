@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Spider%20Team%20🕷🕸&fontSize=90)
 --->
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=xLightningxStar%20&fontColor=7f00ff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=⚡ŞŦΔŘŁØŘĐ%20&fontColor=7f00ff&animation=twinkling)
 # Welcome to my profile 😎!
 I'm xlightningxstar
 
