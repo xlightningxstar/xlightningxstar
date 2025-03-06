@@ -1,8 +1,4 @@
-<!---
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Spider%20Team%20🕷🕸&fontSize=90)
---->
-
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=xlightningxstar%20&fontColor=7f00ff&animation=twinkling)
+[![An image of @anamuddinahmad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anamuddinahmad)](https://holopin.io/@anamuddinahmad)
 # Welcome to my profile 😎!
 I'm xlightningxstar
 
