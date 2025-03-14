@@ -1,4 +1,4 @@
-[![An image of @anamuddinahmad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anamuddinahmad)](https://holopin.io/@anamuddinahmad)
+<h1> <p align="center"> Hi 👋, I'm xlightningxstar
 # Welcome to my profile 😎!
 I'm xlightningxstar
 
