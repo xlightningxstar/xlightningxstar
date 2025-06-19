@@ -27,7 +27,7 @@ A passionate Custom Rom Enthusiast from India
 
 ### 💻 Current Work Machine, Daily Driver Tablet 
 #### MY PC Specs:-
-- Intel Core i5-3470T
+- Intel Core i5-3470s
 - Integrated GPU
 - 8 GB DDR3 Dual channel 1666Mhz ram
 - 500 GB HDD
