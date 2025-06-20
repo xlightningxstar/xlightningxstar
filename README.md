@@ -36,6 +36,10 @@ A passionate Custom Rom Enthusiast from India
 - Qualcomm Snapdragon 662
 - 3GB RAM/32GB ROM
 
+### Pixel 6a (bluejay)
+- Google Tensor
+- 6GB RAM/128GB ROM
+
 ### ⚙️ &nbsp;xlightningxstar's GitHub Analytics
 <p align="center">
 <a href="https://github.com/xlightningxstar">
