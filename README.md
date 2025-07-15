@@ -49,7 +49,3 @@ A passionate Custom Rom Enthusiast from India
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xlightningxstar&layout=compact&langs_count=8&theme=nightowl"/>
 </a>
 </p>
-
-
-<p> <img src="https://komarev.com/ghpvc/?username=xlightningxstar&style=flat-square"/>
-</p>
