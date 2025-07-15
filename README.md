@@ -1,8 +1,7 @@
 <img src="https://github.com/xlightningxstar/xlightningxstar/blob/main/Gallery/github%20banner.png" alt="my main bio image">
  
 # Welcome to my profile 😎!
-I'm xlightningxstar
- <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dxlightningxstar&longCache=true"/>
+I'm xlightningxstar   <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dxlightningxstar&longCache=true"/>
 <img src="https://komarev.com/ghpvc/?username=sarthakroy2002&style=flat-square"/>
 
 A passionate Custom Rom Enthusiast from India
