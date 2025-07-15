@@ -4,7 +4,7 @@
 ![Followers Badge](https://img.shields.io/github/followers/xlightningxstar?label=Followers&style=social&color=white&colorB=333333)
 ![Visitors Badge](https://img.shields.io/badge/visitors-2380-blue?style=social)
 
--A passionate Custom Rom Enthusiast from India
+• A passionate Custom Rom Enthusiast from India
 ***
 
 ## Some infos about me:
