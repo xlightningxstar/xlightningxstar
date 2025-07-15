@@ -2,7 +2,7 @@
  
 # Hi there, I'm xlightningxstar  
 ![GitHub followers](https://img.shields.io/github/followers/xlightningxstar?style=flat-square&label=Followers&logo=github&labelColor=000000&color=0d1117)
-![Visitor Count](https://profile-counter.glitch.me/xlightningxstar/count.svg)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=xlightningxstar)
 
 • A passionate Custom Rom Enthusiast from India
 ***
