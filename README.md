@@ -1,4 +1,4 @@
-<img src="https://github.com/xlightningxstar/xlightningxstar/blob/main/Galery/github%20banner.png" alt="my main bio image">
+<img src="https://github.com/xlightningxstar/xlightningxstar/blob/main/Galery/github%20banner.png">
  
 # Welcome to my profile 😎!
 I'm xlightningxstar
