@@ -1,4 +1,4 @@
-<h1> <p align="center"> Hi 👋, I'm xlightningxstar
+<img src="https://github.com/xlightningxstar/xlightningxstar/blob/main/Galery/github%20banner.png" alt="my main bio image">
  
 # Welcome to my profile 😎!
 I'm xlightningxstar
