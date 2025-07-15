@@ -2,8 +2,7 @@
  
 # Hi there, I'm xlightningxstar  
 ![GitHub followers](https://img.shields.io/github/followers/xlightningxstar?style=flat-square&label=Followers&logo=github&labelColor=000000&color=0d1117)
-![visitors]([https://img.shields.io/badge/dynamic/json?color=222222&label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fxlightningxstar.xlightningxstar%2Fvisits](https://api.countapi.xyz/hit/xlightningxstar/visits
-))
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
 
 
 • A passionate Custom Rom Enthusiast from India
