@@ -1,8 +1,8 @@
 <img src="https://github.com/xlightningxstar/xlightningxstar/blob/main/Gallery/github%20banner.png" alt="my main bio image">
  
 # Hi there, I'm xlightningxstar  
-![Followers Badge](https://img.shields.io/github/followers/xlightningxstar?label=Followers&style=social&color=white&colorB=333333)
-![Visitors Badge](https://img.shields.io/badge/visitors-2380-blue?style=social&color=white&colorB=333333)
+![Followers Badge](https://img.shields.io/github/followers/xlightningxstar?label=Followers&style=social&color=white&colorB=000000)
+![Visitors Badge](https://img.shields.io/badge/visitors-2380-blue?style=social&color=white&colorB=000000)
 
 • A passionate Custom Rom Enthusiast from India
 ***
