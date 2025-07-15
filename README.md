@@ -3,6 +3,7 @@
 # Welcome to my profile 😎!
 I'm xlightningxstar
 ![Followers Badge](https://img.shields.io/github/followers/xlightningxstar?label=Followers&style=social)
+
 <img src="https://komarev.com/ghpvc/?username=xlightningxstar&style=flat-square"/>
 
 A passionate Custom Rom Enthusiast from India
