@@ -2,7 +2,7 @@
  
 # Welcome to my profile 😎!
 I'm xlightningxstar
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xlightningxstar&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+<img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dxlightningxstar&longCache=true"/>
 <img src="https://komarev.com/ghpvc/?username=xlightningxstar&style=flat-square"/>
 
 A passionate Custom Rom Enthusiast from India
