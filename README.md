@@ -2,7 +2,7 @@
  
 # Hi there, I'm xlightningxstar  
 ![Followers Badge]
-(https://img.shields.io/github/followers/xlightningxstar?label=Followers&style=social&color=white&colorB=333333)
+(https://img.shields.io/github/followers/xlightningxstar?label=Followers&style=social)
 (https://github.com/ellerbrock/open-source-badge/) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=JoseXda.JoseXda)
 
 A passionate Custom Rom Enthusiast from India
